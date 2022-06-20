@@ -1,6 +1,6 @@
  # NACE Api Service
  
-#1.PUT - putNaceDetails
+# 1.PUT - putNaceDetails
  URL : /nace-api/add
 
 Request Body:
@@ -17,7 +17,7 @@ Request Body:
 "referenceISIC_Rev4": "string"
 }
 
-#2.GET - getNaceDetails
+# 2.GET - getNaceDetails
  URL : /nace-api/{orderId}/get
 
 Order id in path variable format
